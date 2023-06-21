@@ -12,10 +12,10 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Bulk insert data to ES](https://dev.to/mallikarjunht/bulk-insert-data-to-es-33jl)
 - [The Ultimate Guide to ElasticSearch and Kibana: How to Use and Install with Docker](https://dev.to/mallikarjunht/the-ultimate-guide-to-elasticsearch-and-kibana-how-to-use-and-install-with-docker-596o)
 - [MySQL with Adminer with docker](https://dev.to/mallikarjunht/mysql-with-adminer-with-docker-5e8)
 - [Elastic Search Reindexing](https://dev.to/mallikarjunht/elastic-search-reindexing-4gkg)
-- [Elastic Search Bulk Update](https://dev.to/mallikarjunht/elastic-search-bulk-update-3359)
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  
