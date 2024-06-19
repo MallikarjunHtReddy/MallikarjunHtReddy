@@ -12,10 +12,10 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [java prep - part 3](https://dev.to/mallikarjunht/java-prep-part-3-5c7e)
+- [java interview prep part 2](https://dev.to/mallikarjunht/java-interview-prep-part-2-300i)
+- [Java prep for 3+ years](https://dev.to/mallikarjunht/java-prep-for-3-years-4n8b)
 - [Multipart upload from s3 using java Spring boot](https://dev.to/mallikarjunht/multipart-upload-from-s3-using-java-spring-boot-iog)
-- [Multipart download From S3 in Java](https://dev.to/mallikarjunht/multipart-download-from-s3-in-java-1hjd)
-- [Elasticsearch: Index modules](https://dev.to/mallikarjunht/elasticsearch-index-modules-4b36)
-- [Scalability and resilience](https://dev.to/mallikarjunht/scalability-and-resilience-ige)
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  
