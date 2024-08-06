@@ -12,10 +12,10 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [java prep - part 3](https://dev.to/mallikarjunht/java-prep-part-3-5c7e)
-- [java interview prep part 2](https://dev.to/mallikarjunht/java-interview-prep-part-2-300i)
-- [Java prep for 3+ years](https://dev.to/mallikarjunht/java-prep-for-3-years-4n8b)
-- [Multipart upload from s3 using java Spring boot](https://dev.to/mallikarjunht/multipart-upload-from-s3-using-java-spring-boot-iog)
+- [ES - Index API - part 4](https://dev.to/mallikarjunht/es-index-api-part-4-3ech)
+- [ES Index API - part 3](https://dev.to/mallikarjunht/es-index-api-part-3-1i76)
+- [ES Index API- part 2](https://dev.to/mallikarjunht/es-index-api-part-2-3pmj)
+- [ES index API - part 1](https://dev.to/mallikarjunht/es-index-api-part-1-1km2)
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  
