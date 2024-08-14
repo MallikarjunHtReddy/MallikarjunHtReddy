@@ -12,10 +12,10 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [ES - Node APIs](https://dev.to/mallikarjunht/es-node-apis-4fdk)
+- [ES - CAT APIs](https://dev.to/mallikarjunht/es-cat-apis-ilp)
 - [ES - Index API - part 4](https://dev.to/mallikarjunht/es-index-api-part-4-3ech)
 - [ES Index API - part 3](https://dev.to/mallikarjunht/es-index-api-part-3-1i76)
-- [ES Index API- part 2](https://dev.to/mallikarjunht/es-index-api-part-2-3pmj)
-- [ES index API - part 1](https://dev.to/mallikarjunht/es-index-api-part-1-1km2)
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  
