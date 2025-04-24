@@ -12,10 +12,10 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [kafka](https://dev.to/mallikarjunht/kafka-n4c)
+- [KQL and syntex](https://dev.to/mallikarjunht/kql-and-syntex-3jjo)
 - [Installing Elastic Search 7.14 with docker](https://dev.to/mallikarjunht/installing-elastic-search-714-with-docker-4edn)
 - [ES - Node APIs](https://dev.to/mallikarjunht/es-node-apis-4fdk)
-- [ES - CAT APIs](https://dev.to/mallikarjunht/es-cat-apis-ilp)
-- [ES - Index API - part 4](https://dev.to/mallikarjunht/es-index-api-part-4-3ech)
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  
