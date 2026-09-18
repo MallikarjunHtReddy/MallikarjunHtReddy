@@ -12,10 +12,10 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Giving Claude Code a Real Engineering Process](https://dev.to/mallikarjunht/giving-claude-code-a-real-engineering-process-2a0)
 - [Lucene V/S KQL](https://dev.to/mallikarjunht/lucene-vs-kql-206b)
 - [KQL and syntex](https://dev.to/mallikarjunht/kql-and-syntex-3jjo)
 - [Installing Elastic Search 7.14 with docker](https://dev.to/mallikarjunht/installing-elastic-search-714-with-docker-4edn)
-- [ES - Node APIs](https://dev.to/mallikarjunht/es-node-apis-4fdk)
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  
