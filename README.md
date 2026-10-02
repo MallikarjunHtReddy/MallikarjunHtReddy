@@ -12,10 +12,10 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Agentic-SDD: Giving Claude Code Agents a Real Engineering Process](https://dev.to/mallikarjunht/agentic-sdd-giving-claude-code-agents-a-real-engineering-process-5249)
 - [Giving Claude Code a Real Engineering Process](https://dev.to/mallikarjunht/giving-claude-code-a-real-engineering-process-2a0)
 - [Lucene V/S KQL](https://dev.to/mallikarjunht/lucene-vs-kql-206b)
 - [KQL and syntex](https://dev.to/mallikarjunht/kql-and-syntex-3jjo)
-- [Installing Elastic Search 7.14 with docker](https://dev.to/mallikarjunht/installing-elastic-search-714-with-docker-4edn)
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  
