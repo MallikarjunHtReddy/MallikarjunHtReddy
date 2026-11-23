@@ -12,12 +12,12 @@
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Aider: How to Install and Use the AI Pair Programmer in Your Terminal](https://dev.to/mallikarjunht/aider-how-to-install-and-use-the-ai-pair-programmer-in-your-terminal-mfc)
 - [Hear is an repo which provides memorey and engineering process to your AI, just clone the repo and install as a plugin. Call the /commands and the app will take care of an end to end process. 
 I have used open source model and lucenedb as JAVA applicatio.](https://dev.to/mallikarjunht/hear-is-an-repo-which-provides-memorey-and-engineering-process-to-your-ai-just-clone-the-repo-and-261e)
 - [Hear is an repo which provides memorey and engineering process to your AI, just clone the repo and install as a plugin. Call the /commands and the app will take care of an end to end process. 
 I have used open source model and lucenedb as JAVA applicatio.](https://dev.to/mallikarjunht/hear-is-an-repo-which-provides-memorey-and-engineering-process-to-your-ai-just-clone-the-repo-and-567a)
 - [Agentic-SDD: Giving Claude Code Agents a Real Engineering Process](https://dev.to/mallikarjunht/agentic-sdd-giving-claude-code-agents-a-real-engineering-process-5249)
-- [Giving Claude Code a Real Engineering Process](https://dev.to/mallikarjunht/giving-claude-code-a-real-engineering-process-2a0)
 <!-- BLOG-POST-LIST:END -->
 
 **Languages and Tools:**  
